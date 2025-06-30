@@ -1,8 +1,7 @@
 # Blog-Post-Card
 
 A simple blog Post card that looks like a reuseable element.
-Blog Post Card
-A simple, reusable blog post card component built with HTML and CSS.
+Blog Post Card, reusable blog post card component built with HTML and CSS.
 Overview
 This component displays blog post information in an attractive card format, perfect for blog listings, featured posts, or content grids.
 Features
